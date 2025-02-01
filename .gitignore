@@ -1,0 +1,35 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+
+
+# Database files
+*.sqlite3
+*.db
+
+# Logs and debug files
+logs/
+*.log
+
+# Static files (collected)
+staticfiles/
+media/
+
+# Django secret key and environment variables
+.env
+.envrc
+.venv
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+.DS_Store
+
+# Ignore migrations (optional, if you regenerate them often)
+myapp/migrations/__pycache__/
+myapp/migrations/*.pyc
+
