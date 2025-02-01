@@ -10,7 +10,7 @@ This is an e-commerce web application built using Django, FastAPI, and MySQL. It
 
 
 ## Installation Instructions
-1. Clone the repository: `git clone https://github.com/your-username/django3.git`
+1. Clone the repository: `git clone https://github.com/bprabhati/django3.git`
 2. Install the dependencies: `pip install -r requirements.txt`
 3. Set up the database and environment variables.
 4. Run the project with `python manage.py runserver`.
