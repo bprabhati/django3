@@ -1,7 +1,7 @@
-# Django E-Commerce Project
+# Django Project
 
 ## Description
-This is an e-commerce web application built using Django, FastAPI, and SQLite. It allows users to Register, login, and manage their accounts.
+This is a web application , It allows users to Register, login, and manage their accounts.
 
 ## Technologies Used
 - Django
